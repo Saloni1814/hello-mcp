@@ -1,0 +1,17 @@
+name: hello-mcp
+image: mcp/hello-mcp
+type: server
+meta:
+  category: demo
+  tags:
+    - demo
+    - hello-world
+about:
+  title: Hello MCP Server
+  description: A very simple MCP server that responds with Hello World.
+  icon: https://avatars.githubusercontent.com/u/182288589?s=200&v=4
+source:
+  project: https://github.com/saloni1814/hello-mcp
+config:
+  description: No configuration required.
+
